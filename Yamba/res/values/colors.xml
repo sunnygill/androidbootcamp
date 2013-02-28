@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fog">#66999999</color>
+    <color name="sand">#998866</color>
+    <color name="sea">#557766</color>
+</resources>

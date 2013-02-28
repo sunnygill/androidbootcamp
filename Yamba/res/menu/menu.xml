@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 
+            android:showAsAction="ifRoom|withText"
+    
+     -->
+    
+    <item
+        android:id="@+id/menu_status"
+        android:title="@string/menu_status"/>
+
+    <item
+        android:id="@+id/menu_timeline"
+        android:title="@string/menu_timeline"/>
+    
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/menu_about"/>
+    
+</menu>

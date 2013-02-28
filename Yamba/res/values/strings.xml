@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="yamba">Yamba</string>
+    <string name="menu_settings">Settings</string>
+    <string name="status">Status</string>
+    <string name="count">140</string>
+    <string name="hint">your status here&#8230;</string>
+    <string name="submit">Submit</string>
+    <string name="success">Succeeded!!</string>
+    <string name="failure">Post failed!!</string>
+
+    
+    <string name="menu_status">Status</string>
+    <string name="menu_timeline">Timeline</string>
+    <string name="menu_about">About</string>
+    
+    <string name="about">Yamba: \n\tMarko Garganta\n\tKen Jones\n\tBlake Meike</string>
+    
+</resources>
